@@ -1,0 +1,634 @@
+[
+  {
+    "id": "t1",
+    "category": "Top",
+    "name": "白色挺括T恤",
+    "colors": [
+      "white"
+    ],
+    "styleTags": [
+      "极简",
+      "休闲"
+    ],
+    "seasonTags": [
+      "spring",
+      "summer"
+    ],
+    "formality": 3,
+    "warmth": 2,
+    "fit": "regular",
+    "material": "cotton",
+    "image": "assets/placeholder.svg",
+    "enabled": true
+  },
+  {
+    "id": "t2",
+    "category": "Top",
+    "name": "灰色针织短袖",
+    "colors": [
+      "gray"
+    ],
+    "styleTags": [
+      "极简",
+      "韩系"
+    ],
+    "seasonTags": [
+      "spring",
+      "autumn"
+    ],
+    "formality": 4,
+    "warmth": 4,
+    "fit": "slim",
+    "enabled": true
+  },
+  {
+    "id": "t3",
+    "category": "Top",
+    "name": "黑色修身衬衫",
+    "colors": [
+      "black"
+    ],
+    "styleTags": [
+      "通勤",
+      "约会"
+    ],
+    "seasonTags": [
+      "spring",
+      "autumn"
+    ],
+    "formality": 8,
+    "warmth": 3,
+    "fit": "slim",
+    "enabled": true
+  },
+  {
+    "id": "t4",
+    "category": "Top",
+    "name": "蓝白条纹衬衫",
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "styleTags": [
+      "学院",
+      "通勤"
+    ],
+    "seasonTags": [
+      "spring",
+      "summer"
+    ],
+    "formality": 7,
+    "warmth": 2,
+    "fit": "regular",
+    "enabled": true
+  },
+  {
+    "id": "t5",
+    "category": "Top",
+    "name": "奶油色卫衣",
+    "colors": [
+      "beige"
+    ],
+    "styleTags": [
+      "日系",
+      "休闲"
+    ],
+    "seasonTags": [
+      "autumn",
+      "winter"
+    ],
+    "formality": 2,
+    "warmth": 7,
+    "fit": "oversize",
+    "enabled": true
+  },
+  {
+    "id": "t6",
+    "category": "Top",
+    "name": "复古印花短袖",
+    "colors": [
+      "brown",
+      "green"
+    ],
+    "styleTags": [
+      "美式复古",
+      "休闲"
+    ],
+    "seasonTags": [
+      "summer"
+    ],
+    "formality": 2,
+    "warmth": 1,
+    "fit": "oversize",
+    "enabled": true
+  },
+  {
+    "id": "t7",
+    "category": "Top",
+    "name": "黑色高领打底",
+    "colors": [
+      "black"
+    ],
+    "styleTags": [
+      "极简",
+      "通勤"
+    ],
+    "seasonTags": [
+      "autumn",
+      "winter"
+    ],
+    "formality": 6,
+    "warmth": 7,
+    "fit": "slim",
+    "enabled": true
+  },
+  {
+    "id": "b1",
+    "category": "Bottom",
+    "name": "深蓝直筒牛仔裤",
+    "colors": [
+      "navy"
+    ],
+    "styleTags": [
+      "休闲",
+      "韩系"
+    ],
+    "seasonTags": [
+      "all"
+    ],
+    "formality": 4,
+    "warmth": 4,
+    "fit": "regular",
+    "enabled": true
+  },
+  {
+    "id": "b2",
+    "category": "Bottom",
+    "name": "黑色西装长裤",
+    "colors": [
+      "black"
+    ],
+    "styleTags": [
+      "极简",
+      "通勤"
+    ],
+    "seasonTags": [
+      "all"
+    ],
+    "formality": 8,
+    "warmth": 3,
+    "fit": "regular",
+    "enabled": true
+  },
+  {
+    "id": "b3",
+    "category": "Bottom",
+    "name": "米色阔腿裤",
+    "colors": [
+      "beige"
+    ],
+    "styleTags": [
+      "韩系",
+      "约会"
+    ],
+    "seasonTags": [
+      "spring",
+      "summer"
+    ],
+    "formality": 6,
+    "warmth": 2,
+    "fit": "oversize",
+    "enabled": true
+  },
+  {
+    "id": "b4",
+    "category": "Bottom",
+    "name": "灰色百褶半裙",
+    "colors": [
+      "gray"
+    ],
+    "styleTags": [
+      "学院",
+      "约会"
+    ],
+    "seasonTags": [
+      "spring",
+      "autumn"
+    ],
+    "formality": 6,
+    "warmth": 3,
+    "fit": "regular",
+    "enabled": true
+  },
+  {
+    "id": "b5",
+    "category": "Bottom",
+    "name": "运动束脚裤",
+    "colors": [
+      "black"
+    ],
+    "styleTags": [
+      "机能",
+      "运动"
+    ],
+    "seasonTags": [
+      "all"
+    ],
+    "formality": 2,
+    "warmth": 4,
+    "fit": "regular",
+    "enabled": true
+  },
+  {
+    "id": "b6",
+    "category": "Bottom",
+    "name": "卡其工装短裤",
+    "colors": [
+      "khaki"
+    ],
+    "styleTags": [
+      "机能",
+      "美式复古"
+    ],
+    "seasonTags": [
+      "summer"
+    ],
+    "formality": 2,
+    "warmth": 1,
+    "fit": "oversize",
+    "enabled": true
+  },
+  {
+    "id": "b7",
+    "category": "Bottom",
+    "name": "深灰羊毛半裙",
+    "colors": [
+      "gray"
+    ],
+    "styleTags": [
+      "极简",
+      "通勤"
+    ],
+    "seasonTags": [
+      "autumn",
+      "winter"
+    ],
+    "formality": 7,
+    "warmth": 6,
+    "fit": "slim",
+    "enabled": true
+  },
+  {
+    "id": "o1",
+    "category": "Outer",
+    "name": "短款西装外套",
+    "colors": [
+      "black"
+    ],
+    "styleTags": [
+      "通勤",
+      "极简"
+    ],
+    "seasonTags": [
+      "spring",
+      "autumn"
+    ],
+    "formality": 9,
+    "warmth": 5,
+    "fit": "regular",
+    "enabled": true
+  },
+  {
+    "id": "o2",
+    "category": "Outer",
+    "name": "浅灰廓形西装",
+    "colors": [
+      "gray"
+    ],
+    "styleTags": [
+      "韩系",
+      "通勤"
+    ],
+    "seasonTags": [
+      "spring",
+      "autumn"
+    ],
+    "formality": 8,
+    "warmth": 4,
+    "fit": "oversize",
+    "enabled": true
+  },
+  {
+    "id": "o3",
+    "category": "Outer",
+    "name": "牛仔夹克",
+    "colors": [
+      "blue"
+    ],
+    "styleTags": [
+      "美式复古",
+      "休闲"
+    ],
+    "seasonTags": [
+      "spring",
+      "autumn"
+    ],
+    "formality": 3,
+    "warmth": 5,
+    "fit": "regular",
+    "enabled": true
+  },
+  {
+    "id": "o4",
+    "category": "Outer",
+    "name": "黑色机能冲锋衣",
+    "colors": [
+      "black"
+    ],
+    "styleTags": [
+      "机能",
+      "运动"
+    ],
+    "seasonTags": [
+      "autumn",
+      "winter"
+    ],
+    "formality": 3,
+    "warmth": 8,
+    "fit": "oversize",
+    "enabled": true
+  },
+  {
+    "id": "o5",
+    "category": "Outer",
+    "name": "米白针织开衫",
+    "colors": [
+      "beige"
+    ],
+    "styleTags": [
+      "日系",
+      "约会"
+    ],
+    "seasonTags": [
+      "spring",
+      "autumn"
+    ],
+    "formality": 5,
+    "warmth": 5,
+    "fit": "regular",
+    "enabled": true
+  },
+  {
+    "id": "o6",
+    "category": "Outer",
+    "name": "长款风衣",
+    "colors": [
+      "khaki"
+    ],
+    "styleTags": [
+      "极简",
+      "通勤"
+    ],
+    "seasonTags": [
+      "autumn",
+      "winter"
+    ],
+    "formality": 8,
+    "warmth": 7,
+    "fit": "regular",
+    "enabled": true
+  },
+  {
+    "id": "s1",
+    "category": "Shoes",
+    "name": "白色小白鞋",
+    "colors": [
+      "white"
+    ],
+    "styleTags": [
+      "休闲",
+      "韩系"
+    ],
+    "seasonTags": [
+      "all"
+    ],
+    "formality": 3,
+    "warmth": 2,
+    "fit": "regular",
+    "enabled": true
+  },
+  {
+    "id": "s2",
+    "category": "Shoes",
+    "name": "黑色乐福鞋",
+    "colors": [
+      "black"
+    ],
+    "styleTags": [
+      "通勤",
+      "学院"
+    ],
+    "seasonTags": [
+      "all"
+    ],
+    "formality": 8,
+    "warmth": 3,
+    "fit": "slim",
+    "enabled": true
+  },
+  {
+    "id": "s3",
+    "category": "Shoes",
+    "name": "复古跑鞋",
+    "colors": [
+      "gray",
+      "green"
+    ],
+    "styleTags": [
+      "美式复古",
+      "运动"
+    ],
+    "seasonTags": [
+      "all"
+    ],
+    "formality": 2,
+    "warmth": 2,
+    "fit": "regular",
+    "enabled": true
+  },
+  {
+    "id": "s4",
+    "category": "Shoes",
+    "name": "厚底短靴",
+    "colors": [
+      "black"
+    ],
+    "styleTags": [
+      "机能",
+      "气场"
+    ],
+    "seasonTags": [
+      "autumn",
+      "winter"
+    ],
+    "formality": 6,
+    "warmth": 7,
+    "fit": "regular",
+    "enabled": true
+  },
+  {
+    "id": "s5",
+    "category": "Shoes",
+    "name": "玛丽珍鞋",
+    "colors": [
+      "brown"
+    ],
+    "styleTags": [
+      "约会",
+      "学院"
+    ],
+    "seasonTags": [
+      "spring",
+      "autumn"
+    ],
+    "formality": 6,
+    "warmth": 2,
+    "fit": "slim",
+    "enabled": true
+  },
+  {
+    "id": "a1",
+    "category": "Accessory",
+    "name": "银色简约项链",
+    "colors": [
+      "silver"
+    ],
+    "styleTags": [
+      "极简",
+      "约会"
+    ],
+    "seasonTags": [
+      "all"
+    ],
+    "formality": 5,
+    "warmth": 0,
+    "fit": "regular",
+    "enabled": true
+  },
+  {
+    "id": "a2",
+    "category": "Accessory",
+    "name": "黑色棒球帽",
+    "colors": [
+      "black"
+    ],
+    "styleTags": [
+      "休闲",
+      "机能"
+    ],
+    "seasonTags": [
+      "all"
+    ],
+    "formality": 2,
+    "warmth": 1,
+    "fit": "regular",
+    "enabled": true
+  },
+  {
+    "id": "a3",
+    "category": "Accessory",
+    "name": "棕色皮带",
+    "colors": [
+      "brown"
+    ],
+    "styleTags": [
+      "通勤",
+      "极简"
+    ],
+    "seasonTags": [
+      "all"
+    ],
+    "formality": 7,
+    "warmth": 0,
+    "fit": "regular",
+    "enabled": true
+  },
+  {
+    "id": "a4",
+    "category": "Accessory",
+    "name": "珍珠耳饰",
+    "colors": [
+      "white"
+    ],
+    "styleTags": [
+      "约会",
+      "韩系"
+    ],
+    "seasonTags": [
+      "all"
+    ],
+    "formality": 6,
+    "warmth": 0,
+    "fit": "regular",
+    "enabled": true
+  },
+  {
+    "id": "a5",
+    "category": "Accessory",
+    "name": "机能斜挎包",
+    "colors": [
+      "gray"
+    ],
+    "styleTags": [
+      "机能",
+      "运动"
+    ],
+    "seasonTags": [
+      "all"
+    ],
+    "formality": 3,
+    "warmth": 0,
+    "fit": "regular",
+    "enabled": true
+  },
+  {
+    "id": "a6",
+    "category": "Accessory",
+    "name": "丝巾",
+    "colors": [
+      "blue"
+    ],
+    "styleTags": [
+      "通勤",
+      "约会"
+    ],
+    "seasonTags": [
+      "spring",
+      "autumn"
+    ],
+    "formality": 7,
+    "warmth": 1,
+    "fit": "regular",
+    "enabled": true
+  },
+  {
+    "id": "a7",
+    "category": "Accessory",
+    "name": "极简腕表",
+    "colors": [
+      "black",
+      "silver"
+    ],
+    "styleTags": [
+      "极简",
+      "通勤"
+    ],
+    "seasonTags": [
+      "all"
+    ],
+    "formality": 8,
+    "warmth": 0,
+    "fit": "regular",
+    "enabled": true
+  }
+]
